@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(190, 174, 174);
+}
+
+#principal {
+    border: 5px;
+    border-radius: 10px;
+    border-color: blueviolet;
+    border-style: outset;
+}
+
+#resposta {
+    border: 3px;
+    border-radius: 5px;
+    border-color: red;
+    border-style: outset;    
+}
